@@ -20,3 +20,5 @@ def get_filename_and_read():
 get_filename_and_read()
 
 # How to run: python3 error.py
+# Try output1.txt as the file name
+# Note, the output1.txt has the read revoked so as to demonstrate the IOError

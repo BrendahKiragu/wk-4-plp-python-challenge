@@ -1,0 +1,34 @@
+Why Didn’t I Meet You Sooner, Python? 🐍
+
+I’ve walked the long, curly-braced lane,
+Where semicolons dance in vain,
+Where const and let forever fight,
+And callbacks haunt me late at night.
+
+I thought JavaScript was my home,
+Through React’s wild seas I’d roam.
+I battled undefined and scope,
+Clung to promises, lost all hope.
+
+Then one soft day, I met you
+A snake so simple, syntax true.
+No curly braces, no trailing pain,
+Just clean white space, I breathe again.
+
+Your lists, your dicts, your gentle flow,
+I whisper print and watch it go.
+No semicolons to make me weep,
+Just indentation, pure and deep.
+
+JavaScript was my fiery fling,
+But, Python, you… you make me sing.
+Why didn’t I find your love back then,
+Before I nested loops in sin?
+
+Now, dear snake, I make my vow,
+To learn your secrets, here and now.
+JS may linger, it’s still my mate,
+But Python, oh Python,
+…you’re my soulmate. ❤️
+
+Happy coding.
